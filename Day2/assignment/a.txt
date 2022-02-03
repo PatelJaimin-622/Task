@@ -7,3 +7,5 @@ Now created feature branch
 Adding awesome features
 Hello I like conflicts
 trying to create conflicts
+
+Hello world
