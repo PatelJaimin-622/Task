@@ -5,3 +5,4 @@ trying to close the issue
 Now created feature branch
 
 Adding awesome features
+trying to create conflicts
