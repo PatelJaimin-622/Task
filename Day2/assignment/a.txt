@@ -9,3 +9,5 @@ Hello I like conflicts
 trying to create conflicts
 
 Hello world
+Understanding git checkout fixed typo
+Purpose is to use git reset Head
