@@ -1,1 +1,2 @@
-added line 1 hello wordl
+added line 1 hello world
+addes line 2 how are you.
